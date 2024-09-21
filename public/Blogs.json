@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "title": "The Future of Web Development",
+      "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+      "author": "John Doe",
+      "posted_date": "2024-09-12",
+      "reading_time": 5,
+      "hashtags": ["#WebDevelopment", "#FutureTech", "#Coding"]
+    },
+    {
+      "id": 2,
+      "cover": "https://images.unsplash.com/photo-1547658719-da2b51169166",
+      "title": "Mastering React in 2024",
+      "author_img": "https://randomuser.me/api/portraits/women/45.jpg",
+      "author": "Jane Smith",
+      "posted_date": "2024-08-20",
+      "reading_time": 8,
+      "hashtags": ["#ReactJS", "#JavaScript", "#Frontend"]
+    },
+    {
+      "id": 3,
+      "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+      "title": "Understanding JavaScript ES6",
+      "author_img": "https://randomuser.me/api/portraits/men/22.jpg",
+      "author": "Samuel Green",
+      "posted_date": "2024-07-30",
+      "reading_time": 6,
+      "hashtags": ["#JavaScript", "#ES6", "#Programming"]
+    },
+    {
+      "id": 4,
+      "cover": "https://plus.unsplash.com/premium_photo-1720715202866-c3f23c60a165?q=80&w=1412&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "CSS Grid vs Flexbox: Which One to Use?",
+      "author_img": "https://randomuser.me/api/portraits/women/67.jpg",
+      "author": "Emily Rose",
+      "posted_date": "2024-06-15",
+      "reading_time": 7,
+      "hashtags": ["#CSS", "#FrontendDesign", "#WebDevelopment"]
+    },
+    {
+      "id": 5,
+      "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "title": "Building Responsive Websites with Bootstrap",
+      "author_img": "https://randomuser.me/api/portraits/men/15.jpg",
+      "author": "Michael Lee",
+      "posted_date": "2024-05-22",
+      "reading_time": 10,
+      "hashtags": ["#Bootstrap", "#ResponsiveDesign", "#CSS"]
+    }
+  ]
+  
