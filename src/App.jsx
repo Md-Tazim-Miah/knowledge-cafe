@@ -3,6 +3,7 @@ import './App.css'
 import Blogs from './components/Blogs/Blogs'
 import Bookmarks from './components/bookmarks/Bookmarks'
 import Header from './components/header/Header'
+import Footer from './components/footer/Footer'
 
 function App() {
   const [bookmarks, setBookmarks] = useState([]);
@@ -31,7 +32,10 @@ function App() {
         <Bookmarks 
         bookmarks={bookmarks}
         readingTime={readingTime}></Bookmarks>
-      </main>  
+      </main>
+      <footer>
+        <Footer></Footer>
+      </footer>  
     </>
   )
 }
